@@ -1,0 +1,6 @@
+{
+    "name": "Kali Linux",
+    "image": "kali-linux",
+    "ports": ["80"],
+    "volumes": ["/var/run/docker.sock:/var/run/docker.sock"]
+}
